@@ -1,0 +1,56 @@
+#teamPart{
+    .teamPart{
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 0px ;
+        // display: flex;
+        .title{
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 0px 0px 0px 45px ;
+
+            text-align: center;
+            h4{
+                margin: 0px;
+                padding: 100px 0px 15px 0px;
+                width: 1200px;
+                height: 0px;
+               color: #236E5B;
+               font-size: 300;
+               font-size: 12px;
+            }
+            h1{
+                margin: 0;
+                width: 1200px;
+                height: 0px; 
+                color: #236E5B;
+                font-size: 45px;
+                font-weight: 400;
+        
+            }
+        }
+        .main{
+            padding: 100px 0px 0px 0px;
+            display: flex;
+        text-align: center;
+        justify-content: center;
+
+            .person{
+                .personImg{
+
+                }
+                .personText{
+                    color: #236E5B;
+                    h1{
+                        font-size: 20px;
+                        font-weight: 400;
+                    }
+                    h4{
+                        font-size: 15px;
+                        font-weight: 400;
+                    }
+                }
+            }
+        }
+    }
+}

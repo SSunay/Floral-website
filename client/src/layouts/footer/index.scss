@@ -1,0 +1,67 @@
+#footer{background-color: #D8E3D5;
+  margin: 70px 0px 0px 0px;
+
+    .footer{
+        max-width: 1280px;
+  margin: 0 auto;
+  padding: 0px 0px 0px 0px;
+        color: #236E5B;
+        display: flex;
+        justify-content:space-between ;
+        .logo{
+           img{
+            padding-bottom: 30px;
+            width: 83px;
+            height: 36px;
+           }
+        }
+        .logoAndInput{
+            margin-top:50px;
+            input{
+                border: none;
+            text-decoration: overline;
+            padding: 6px 15px;
+            width: 250px;
+            }
+            button{
+                border: none;
+            padding: 6px 15px;
+                background-color: #236E5B;
+            }
+
+        }
+        .links{
+        display: flex;
+        column-gap: 150px;
+        .part1{
+            h1{
+            font-weight: 400;
+
+            }
+            h3{
+            font-weight: 400;
+
+            }
+        }
+        .part2{
+            h1{
+            font-weight: 400;
+
+            }
+            h3{
+            font-weight: 400;
+
+            }
+        }
+
+
+        }
+        .follow{
+            h1{
+                font-weight: 400;
+    
+                }
+
+        }
+    }
+}

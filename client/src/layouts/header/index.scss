@@ -1,0 +1,34 @@
+#navbar{
+    background-color: #236E5B;
+    .navbar{
+max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+        .logo{
+            a{
+                text-decoration: none;
+                color: white;
+               
+                
+            }
+        }
+        .link{
+            ul{
+                display: flex;
+                li{
+                    margin: 15px 0px 0px 0px;
+                    list-style: none;
+                    a{
+                padding: 0px 25px 0px 0px;
+                        font-size: 20px;
+                        text-decoration: none;
+                        color: white;
+                    }
+            
+                }
+            }
+        }
+    }
+}
